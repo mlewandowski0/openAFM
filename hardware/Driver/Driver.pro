@@ -1,4 +1,4 @@
-update=02.08.2018 00:20:53
+update=02.08.2018 00:47:24
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -61,6 +59,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=E:/PROJS/OpenAFM/hardware/library/AD633ARZ
-LibName34=E:/PROJS/OpenAFM/hardware/library/AD8000YRDZ
-LibName35=E:/PROJS/OpenAFM/hardware/library/pr5001
+[general]
+version=1
